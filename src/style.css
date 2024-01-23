@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+:root{
+    --theme-color:red
+}
+.theme_dark{
+    --theme-bg: black;
+    --theme-nav-bg:rgba(14, 14, 18, 1);
+    --theme-nav-item:rgb(23, 23, 30);
+    --theme-nav-item-color:rgb(255,255,255);
+    --theme-title: rgb(255,255,255);
+    --theme-text:rgba(162, 162, 181, 1);
+    --theme-com:rgba(14, 14, 18, 1);
+    --theme-com-item: rgb(23, 23, 30);
+    --theme-shadow-bg:#1e293b;
+    --theme-model-bg: rgba(14, 14, 18, 1);
+    --theme-button-imp:#5747f7;
+    --theme-button-color: rgb(255, 255, 255);
+}
+.theme_white{
+    --theme-bg: #f0f3f6;
+    --theme-nav-bg: #f8f8f8;
+    --theme-nav-item:#ff547b;
+    --theme-nav-item-color:#fff;
+    --theme-title: rgb(0, 0, 0);
+    --theme-text: rgb(94, 94, 94);
+    --theme-com: #f8f8f8;
+    --theme-com-item: rgb(248, 248, 248);
+    --theme-shadow-bg: #eaeaea;
+    --theme-model-bg: #f0f3f6;
+    --theme-button-imp: #ff547b;
+    --theme-button-color:#fff;
+}

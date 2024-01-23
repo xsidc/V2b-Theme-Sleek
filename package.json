@@ -1,0 +1,37 @@
+{
+  "name": "v2b-theme-sleek",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.16",
+    "@heroicons/vue": "^2.0.18",
+    "@kangc/v-md-editor": "^2.3.18",
+    "animate.css": "^4.1.1",
+    "axios": "^1.6.0",
+    "headlessui": "^0.0.0",
+    "heroicons": "^2.0.18",
+    "highlight.js": "^11.9.0",
+    "js-base64": "^3.7.5",
+    "marked": "^10.0.0",
+    "moment": "^2.29.4",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.0",
+    "vue": "^3.3.4",
+    "vue-i18n": "^9.6.5",
+    "vue-qr": "^4.0.9",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.4.5"
+  }
+}
