@@ -2,7 +2,7 @@
 > 前后端分离主题 可搭建多个前端应用 <br>
 > 提交的需求尽量满足 不定期维护更新 <br>
 > 请注意同源策略 <br>
-
+> [https://github.com/Jashi1chat/v2b-](https://github.com/Jashi1chat/v2b-) <br>
 ### TG反馈群: [反馈群](https://t.me/Bing_Code)
 
 ## 安装教程
